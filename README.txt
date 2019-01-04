@@ -1,7 +1,7 @@
 Ethereal by HTML5 UP
 html5up.net | @ajlkn
 Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
-
+Read by Hyejeong Cheon
 
 This is Ethereal, my latest, greatest, and quite possibly most unique template for HTML5 UP.
 Since releasing Parallelism 3-4 years ago (!!!), I've been dying to do another side-scrolling
