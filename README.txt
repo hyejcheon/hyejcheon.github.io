@@ -1,7 +1,3 @@
-#Portfolio of Hyejeong Cheon,
-This is a page for introducing me and the results of my work I have done. 
-For visiting here, go to website https://hyejeonc.github.io/   
-
 
 Ethereal by HTML5 UP
 html5up.net | @ajlkn
