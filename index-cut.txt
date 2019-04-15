@@ -1,4 +1,8 @@
+
+
 <!--hidden part
+
+
 
 						<!-- Panel -->
 							<section class="panel color2-alt">
